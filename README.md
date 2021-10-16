@@ -1,11 +1,11 @@
 # Hello, I'm Mohit Negi 👋
 
-![Python](https://img.shields.io/badge/Python-Advance-yellow)
-![JAVA](https://img.shields.io/badge/JAVA-Advance-lightgrey)
+![Python](https://img.shields.io/badge/Python-Advance-green)
+![JAVA](https://img.shields.io/badge/JAVA-Advance-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Advance-black)
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-blue)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
 MS. Information Systems alumnus at [Northeastern University]. Data Science enthusiast with passion for Network Penetration {Not testing}, Software development. Fascinated by the fragile world system build on the pillars of sand. . Proudly from [INDIA ](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
