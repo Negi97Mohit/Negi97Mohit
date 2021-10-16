@@ -18,16 +18,14 @@ Computer Science alumnus at [University of Bologna](https://www.unibo.it/en). Cy
 
 ### 📬 Get in Touch
 
-- StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
-- GitHub: [github.com/federico-dondi][github]
-- LinkedIn: coming soon
-- Site: [federico-dondi.github.io][site]
-- E-mail: federico.dondi2@studio.unibo.it
+- GitHub: [github.com/Negi97Mohit][github]
+- LinkedIn: [https://www.linkedin.com/in/mohit-negi-109588208/][LinkedIn]
+- E-mail: mohit.snegi97@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=federico-dondi&show_icons=true&hide_border=true)
+![Mohit Negi's github stats](https://github-readme-stats.vercel.app/api?username=federico-dondi&show_icons=true&hide_border=true)
 
-[stackoverflow]: https://stackoverflow.com/users/13278024/federico-dondi
-[github]: https://github.com/federico-dondi
+
+[github]: https://github.com/Negi97Mohit
 [site]: https://federico-dondi.github.io
