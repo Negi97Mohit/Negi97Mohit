@@ -22,7 +22,7 @@ MS. Information Systems alumnus at [Northeastern University]. Data Science enthu
 - LinkedIn: [https://www.linkedin.com/in/mohit-negi-109588208/][LinkedIn]
 - E-mail: mohit.snegi97@gmail.com
 
-![Mohit Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=gradient)
+![Mohit Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=dracula)
 
 [github]: https://github.com/Negi97Mohit
 [site]: https://federico-dondi.github.io
