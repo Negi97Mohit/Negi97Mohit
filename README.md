@@ -7,22 +7,20 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 
-Computer Science alumnus at [University of Bologna](https://www.unibo.it/en). Cyber Security enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. Proudly from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
+MS. Information Systems alumnus at [Northeastern University]. Data Science enthusiast with passion for Network Penetration {Not testing}, Software development. Fascinated by the fragile world system build on the pillars of sand. . Proudly from [INDIA ](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
-- 🔭 Bachelor's degree in **Computer Science** at UniBo
-- 🌱 I’m currently learning **Cyber Security** at UniMore
-- 🌱 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
-- ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
-- 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
-- 💬 I'm mostly active within the **Cyber Security**, **Vue.JS**, **Node.JS** and **Unity 3D** communities
+- 🔭 Master's degree in **Information Systems** at Northeastern University
+- 🌱 I’m currently learning **Cyber Security** by MySelf
+- 🌱 Feeel free to connect with me to talk about the fragile world systems.
+- ⚙️ Mastering: `.py`, `.java`,`.css`,`.html`,`.sql`
+- 👯 I’m looking to collaborate on **Open Source** projects.
+- 💬 I'm mostly active within the **Kali Linux**, **.PY**, **.JAVA**  communities
 
 ### 📬 Get in Touch
 
 - GitHub: [github.com/Negi97Mohit][github]
 - LinkedIn: [https://www.linkedin.com/in/mohit-negi-109588208/][LinkedIn]
 - E-mail: mohit.snegi97@gmail.com
-
-### 📚 Looking for my Resume? E-Mail me!
 
 ![Mohit Negi's github stats](https://github-readme-stats.vercel.app/api?username=federico-dondi&show_icons=true&hide_border=true)
 
