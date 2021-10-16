@@ -4,10 +4,10 @@
 ![JAVA](https://img.shields.io/badge/JAVA-Advance-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Advance-green)
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-blue)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-grey)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-MS. Information Systems alumnus at [Northeastern University]. Data Science enthusiast with passion for Network Penetration {Not testing}, Software development. Fascinated by the fragile world system build on the pillars of sand. . Proudly from [INDIA ]
+MS. Information Systems alumnus at [Northeastern University]. Data Science enthusiast with passion for Network Penetration {Not testing}, Software development. Fascinated by the fragile world system build on the pillars of sand. . Proudly from [ INDIA ]
 
 - 🔭 Master's degree in **Information Systems** at Northeastern University
 - 🌱 I’m currently learning **Cyber Security** by MySelf
