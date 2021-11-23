@@ -11,7 +11,7 @@ MS. Information Systems alumnus at [Northeastern University]. Data Science enthu
 
 - 🔭 Master's degree in **Information Systems** at Northeastern University
 - 🌱 I’m currently learning **Cyber Security** by MySelf
-- 🌱 Feeel free to connect with me to talk about the fragile world systems.
+- 🌱 Feel free to connect with me to talk about the fragile world systems.
 - ⚙️ Mastering: `.py`, `.java`,`.css`,`.html`,`.sql`
 - 👯 I’m looking to collaborate on **Open Source** projects.
 - 💬 I'm mostly active within the **Kali Linux**, **.py**, **.java**  communities
