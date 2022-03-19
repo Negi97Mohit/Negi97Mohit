@@ -7,11 +7,11 @@
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-MS. Information Systems student at Northeastern University. Data Science enthusiast with passion for Network Penetration {Not testing}, Software development. Fascinated by the fragile world system build on the pillars of sand.  Proudly from [ INDIA ]
+MS. Information Systems student at Northeastern University. Data Science enthusiast with passion for Network Penetration {Not testing}, Software development. Fascinated by the terminal.  Proudly from [ INDIA ]
 
 - 🔭 Master's degree in **Information Systems** at Northeastern University
 - 🌱 I’m currently learning **Cyber Security** by MySelf
-- 🌱 Feel free to connect with me to talk about the fragile world systems.
+- 🌱 Feel free to connect with me to talk about AI, ML, Crypto or any other tech related issues..
 - ⚙️ Mastering: `.py`, `.java`,`.css`,`.html`,`.sql`
 - 👯 I’m looking to collaborate on **Open Source** projects.
 - 💬 I'm mostly active within the **Kali Linux**, **.py**, **.java**  communities
