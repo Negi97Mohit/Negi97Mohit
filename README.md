@@ -7,7 +7,7 @@
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-MS. Information Systems student at Northeastern University. Data Science enthusiast with passion for Network Penetration {Not testing}, Software development. Fascinated by the terminal.  Proudly from [ INDIA ]
+MS. Information Systems student at Northeastern University. Data Science enthusiast with passion for neural networks, NLP, crypto and stock market. Fascinated by the terminal.  Proudly from [ INDIA ]
 
 - 🔭 Master's degree in **Information Systems** at Northeastern University
 - 🌱 I’m currently learning **Cyber Security** by MySelf
