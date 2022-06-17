@@ -1,5 +1,8 @@
-# Hello, I'm Mohit Negi <img src="https://static.zerochan.net/Hashibira.Inosuke.full.2976042.gif"  height="250" width="250"/>
+<img src="https://static.zerochan.net/Hashibira.Inosuke.full.2976042.gif"  height="250" width="250"/>
+
 <br />
+# Hello, I'm Mohit Negi
+
 ![Python](https://img.shields.io/badge/Python-Advance-orange)
 ![JAVA](https://img.shields.io/badge/JAVA-Advance-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Advance-green)
