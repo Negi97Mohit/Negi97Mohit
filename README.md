@@ -1,7 +1,6 @@
-<p align="center>
+<p align="center">
 <img src="https://static.zerochan.net/Hashibira.Inosuke.full.2976042.gif"  height="250" width="250"/>
-                                                                                                   </p>
-<br />
+</ p>
 # Hello, I'm Mohit Negi
 
 ![Python](https://img.shields.io/badge/Python-Advance-orange)
