@@ -24,8 +24,8 @@ MS. Information Systems student at Northeastern University. Data Science enthusi
 
 - GitHub: [github.com/Negi97Mohit][github]
 - LinkedIn: [https://www.linkedin.com/in/mohit-negi-109588208/][LinkedIn]
-- Portfolio: [mohit.snegi97@gmail.com](https://negim.myportfolio.com/)
-- E-mail: mohit.snegi97@gmail.com
+- Portfolio: [Work Portfolio](https://negim.myportfolio.com/)
+- E-mail: negi.m@northeastern.edu
 
 ![Mohit Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=dracula)
 
