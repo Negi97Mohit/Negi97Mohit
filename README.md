@@ -7,8 +7,8 @@
 ![Python](https://img.shields.io/badge/Python-Advance-orange)
 ![JAVA](https://img.shields.io/badge/JAVA-Advance-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Advance-green)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-blue)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-red)
+![HTML](https://img.shields.io/badge/HTML-Advance-blue)
+![CSS](https://img.shields.io/badge/CSS-Advance-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
 MS. Information Systems student at Northeastern University. Data Science enthusiast with passion for neural networks, NLP, crypto and stock market. Fascinated by the terminal.  Proudly from [ INDIA ]
