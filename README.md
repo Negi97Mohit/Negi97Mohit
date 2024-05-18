@@ -2,7 +2,7 @@
 <img src="https://64.media.tumblr.com/c5399e42065a936c75c170e507dfb6f0/73930fdb8ee92bf5-76/s1280x1920/6dae7b7d7c73f618f1e63fe99ceff8c086058df1.gifv"  height="250" width="250"/>
 </ p>
 
-# Hello, I'm Mohit Negi Founder of FUJM
+# Hello, I'm Mohit Negi, founder of FUJM at the moment
 
 ![Python](https://img.shields.io/badge/Python-Advance-orange)
 ![JAVA](https://img.shields.io/badge/JAVA-Advance-yellow)
