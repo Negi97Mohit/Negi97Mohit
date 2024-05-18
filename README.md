@@ -14,7 +14,7 @@
 MS. Information Systems student at Northeastern University. Data Science enthusiast with passion for neural networks, NLP, crypto and stock market. Fascinated by the terminal.  Proudly from [ INDIA ]
 
 - 🔭 Master's degree in **Information Systems** at Northeastern University
-- 🌱 I’m currently learning **Cyber Security** by MySelf
+- 🌱 IBuilding **FUJM** so i can trtire early and visit Venice
 - 🌱 Feel free to connect with me to talk about AI, ML, Crypto or any other tech related issues..
 - ⚙️ Mastering: `.py`, `.java`,`.css`,`.html`,`.sql`
 - 👯 I’m looking to collaborate on **Open Source** projects.
