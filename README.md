@@ -2,7 +2,7 @@
 <img src="https://64.media.tumblr.com/c5399e42065a936c75c170e507dfb6f0/73930fdb8ee92bf5-76/s1280x1920/6dae7b7d7c73f618f1e63fe99ceff8c086058df1.gifv"  height="250" width="250"/>
 </ p>
 
-# Hello, I'm Mohit Negi, founder of FUJM at the moment
+# Hello, I'm Mohit Singh Negi
 
 ![Python](https://img.shields.io/badge/Python-Advance-orange)
 ![JAVA](https://img.shields.io/badge/JAVA-Advance-yellow)
@@ -25,7 +25,7 @@ MS. Information Systems student at Northeastern University. Data Science enthusi
 - GitHub: [github.com/Negi97Mohit][github]
 - LinkedIn: [https://www.linkedin.com/in/mohit-negi-109588208/][LinkedIn]
 - Portfolio: [Work Portfolio](https://negim.myportfolio.com/)
-- E-mail: negi.m@northeastern.edu
+- E-mail: mohit.snegi123@gmail.com
 
 ![Mohit Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=dracula)
 
