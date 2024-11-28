@@ -27,7 +27,8 @@ MS. Information Systems student at Northeastern University. Data Science enthusi
 - Portfolio: [Work Portfolio](https://negim.myportfolio.com/)
 - E-mail: mohit.snegi123@gmail.com
 
-![Mohit Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=dracula)
+![Mohit Negi's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=dracula&count_private=true&hide=prs&include_all_commits=true&hide_border=true
+))
 
 [github]: https://github.com/Negi97Mohit
 [site]: https://federico-dondi.github.io
