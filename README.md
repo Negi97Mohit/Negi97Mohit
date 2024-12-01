@@ -15,7 +15,8 @@
 
 ## 👨‍💻 About Me
 
-I'm an **M.Sc. in Information Systems** graduate from Northeastern University and a Data Science enthusiast passionate about neural networks, NLP, crypto, and the stock market. I love working on innovative projects and exploring the intersection of **AI** and real-world applications.
+I'm an **M.Sc. in Information Systems** graduate from Northeastern University and a currently building an AI jobBoard {the irony lol} .
+I love working on fun projects and exploring the intersection of **AI** and real-world applications.
 
 - 🔭 Currently building **[FUJM](https://fujm.org)**, a GenAI-powered job platform, to help users find jobs that truly match their profiles.
 - 🌱 Actively learning and implementing **microservices**, **serverless APIs**, and **ML frameworks**.
