@@ -83,6 +83,10 @@ _Pune, India | Nov 2019 – Nov 2020_
 
 ---
 
+## 📂 My GitHub Repositories
+
+<!-- Repos will be dynamically added here -->
+
 ## 📬 Get in Touch
 
 - **GitHub:** [Negi97Mohit](https://github.com/Negi97Mohit)  
