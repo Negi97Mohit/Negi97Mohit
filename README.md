@@ -46,14 +46,14 @@ _Boston, MA, USA / India | Feb 2024 – Present_
 - Integrated **SERP API** and Groq's GenAI models to provide accurate job recommendations.  
 - Utilized Firebase for authentication, analytics, and resource optimization under Google's Startup Program.  
 
-### Software QA Engineer (Intern) | Dassault Systèmes  
+### QA Software Engineer (Intern) | Dassault Systèmes  
 _Waltham, MA, USA | Aug 2022 – Dec 2023_  
 - Automated testing processes, reducing release time by 97%, using Python, TypeScript, and Jenkins.  
 - Developed CI/CD pipelines and dashboards for performance monitoring.  
 - Created regression test scripts with Selenium, improving testing efficiency by 30%.  
 
 ### Investment Sales Analyst | Huf Group  
-_Pune, India | Nov 2019 – Nov 2020_  
+_Pune, India | Nov 2018 – Nov 2020_  
 - Increased market share by 18% and secured $6.2M+ contracts through data-driven strategies.  
 - Built SQL databases and performed market analysis using Power BI, Excel, and Redshift.  
 
