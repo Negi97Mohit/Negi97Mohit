@@ -41,24 +41,6 @@
 
 ---
 
-## 💻 Featured Work
-
-### Machine Learning & AI
-- [AI Tools — ChatGPT, LangChain, SK](https://github.com/Negi97Mohit/building-apps-with-ai-tools-chatgpt-semantic-kernel-langchain-4469616)
-- [CIFAR-10 CNN (Keras)](https://github.com/Negi97Mohit/CIFAR-10-Keras-CNN)
-- [Covid-19 Image Classification](https://github.com/Negi97Mohit/Covid-19-Image-Classification)
-
-### Web & Applications
-- [Brickea](https://github.com/Negi97Mohit/Brickea) — Personal page
-- [MealApp](https://github.com/Negi97Mohit/MealApp)
-- [depth_react](https://github.com/Negi97Mohit/depth_react)
-
-### Tools & Extensions
-- [fujm-extensions](https://github.com/Negi97Mohit/fujm-extensions)
-- [GenAI_App](https://github.com/Negi97Mohit/GenAI_App)
-
----
-
 ## 🤝 Open To
 
 AI/ML projects • Automation tools • Creator tech • Collaborations
