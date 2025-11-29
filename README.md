@@ -24,7 +24,7 @@ I'm an **Builder** graduate from Northeastern University
 ## 📬 Get in Touch
 
 - **LinkedIn:** [Mohit Negi](https://www.linkedin.com/in/mohit-negi-109588208/)  
-- **Portfolio:** [Work Portfolio]([https://negim.myportfolio.com/](https://dichotomy-parallel.onrender.com/))  
+- **Portfolio:** [Work Portfolio](https://dichotomy-parallel.onrender.com/)  
 - **E-mail:** mohitenji.com  
 ---
 
