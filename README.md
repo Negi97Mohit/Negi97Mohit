@@ -33,10 +33,6 @@
     src="https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=dracula&count_private=true&hide=prs&include_all_commits=true&hide_border=true&cache_seconds=7200"
     height="160"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negi97Mohit&layout=compact&theme=dracula&hide_border=true&cache_seconds=7200"
-    height="160"
-  />
 </p>
 
 
