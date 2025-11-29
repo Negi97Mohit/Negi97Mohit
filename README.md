@@ -27,9 +27,9 @@
 
 ---
 
-## 📊 GitHub Stats (Clean + Minimal)
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues&count_private=true&cache_seconds=7200" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negi97Mohit&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
