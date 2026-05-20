@@ -31,22 +31,3 @@
 
 </div>
 
----
-
-## 🚀 What I'm Building
-
-- **[FUJM](https://fujm.org/)** — GenAI-driven job discovery platform
-- **[GAKI](https://gaki.netlify.app/)** — AI overlays & video creation tools
-- **[AI Tools Suite](https://github.com/Negi97Mohit/building-apps-with-ai-tools-chatgpt-semantic-kernel-langchain-4469616)** — ChatGPT, LangChain, Semantic Kernel integration
-
----
-
-## 🤝 Open To
-
-AI/ML projects • Automation tools • Creator tech • Collaborations
-
----
-
-<div align="center">
-  <strong>Let's build something cool together!</strong>
-</div>
